@@ -2,7 +2,7 @@
 
 ### Hi there, I am Chetan Raut 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-chetanraut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanraut/)](https://www.linkedin.com/in/chetan-raut-ba20812ba/)
+[![Linkedin Badge](https://img.shields.io/badge/-chetanraut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanraut/)](https://www.linkedin.com/in/chetanraut20)
 [![Gmail Badge](https://img.shields.io/badge/-rautc157@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rautc157@gmail.com)](mailto:rautc157@gmail.com)
 
 - 🎯 Portfolio website: [Portfolio](https://rautc.github.io/)
